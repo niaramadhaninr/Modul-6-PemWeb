@@ -1,0 +1,7 @@
+Jawaban Soal JavaScript dan jQuery 
+1. Jelaskan secara singkat apa itu JavaScript dan kegunaannya!
+   = JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi lebih interaktif dan dinamis. JavaScript dapat digunakan untuk mengatur tampilan halaman, merespons tindakan pengguna seperti klik tombol, memeriksa isian formulir, serta mengambil data dari server tanpa harus memuat ulang halaman
+2. Jelaskan secara singkat apa itu jQuery dan kegunaannya!
+   = jQuery adalah library JavaScript yang membantu programmer menulis kode dengan lebih sederhana dan singkat. jQuery digunakan untuk mengatur elemen HTML, menangani event, menambahkan efek animasi, serta mempermudah proses pengambilan data dari server
+3. Jelaskan perbedaan JavaScript dan jQuery!
+   = JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif, sedangkan jQuery merupakan library yang dibuat menggunakan JavaScript untuk mempermudah penulisan kode. JavaScript dapat digunakan langsung di browser tanpa tambahan library, sementara jQuery perlu dimuat terlebih dahulu agar bisa digunakan. Dari segi penulisan, JavaScript terkadang membutuhkan kode yang lebih panjang, sedangkan jQuery memiliki sintaks yang lebih singkat dan sederhana. JavaScript dapat digunakan untuk membuat berbagai logika program, sedangkan jQuery lebih berfokus pada kemudahan dalam mengatur elemen HTML, menangani event, membuat animasi, dan mengambil data dari server.
